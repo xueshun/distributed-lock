@@ -1,0 +1,4 @@
+
+# Environment Post Processor
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  com.xuesran.autoconfiguration.DistributedLockClientEnvironmentPostProcessor
